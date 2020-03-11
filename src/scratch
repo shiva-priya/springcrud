@@ -1,0 +1,14 @@
+tail -f localhost.2020-03-10.log
+
+curl -H "Content-Type: application/json" -X POST -d '{"ename":"priya","edept":"it"}' http://localhost:8080/newspringproject/emp/emp/add
+
+http://zetcode.com/spring/deletemapping/
+
+https://www.baeldung.com/spring-httpmessageconverter-rest
+
+https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/jdbc.html
+
+  public int deleteEmployee(long eid, String ename, String edept)
+    {
+        return queries.deleteEmployee(eid, ename, edept);
+    }

@@ -1,0 +1,12 @@
+/home/priyad/Desktop/Workspace/Java/newspringproject/src/main/java/com/spring/demo/MyServlet.java
+/home/priyad/Desktop/Workspace/Java/newspringproject/src/main/java/com/spring/demo/database/DBQueries.java
+/home/priyad/Desktop/Workspace/Java/newspringproject/src/main/java/com/spring/demo/empmodel/EmployeeService.java
+/home/priyad/Desktop/Workspace/Java/newspringproject/src/main/java/com/spring/demo/context/BeanConfig.java
+/home/priyad/Desktop/Workspace/Java/newspringproject/src/main/java/com/spring/demo/database/EmployeeRowMapper.java
+/home/priyad/Desktop/Workspace/Java/newspringproject/src/main/java/com/spring/demo/webconfig/WebConfig.java
+/home/priyad/Desktop/Workspace/Java/newspringproject/src/main/java/com/spring/demo/empmodel/Employee.java
+/home/priyad/Desktop/Workspace/Java/newspringproject/src/main/java/com/spring/demo/database/SpringJdbcConfig.java
+/home/priyad/Desktop/Workspace/Java/newspringproject/src/main/java/com/spring/demo/dispatcher/DispatcherConfig.java
+/home/priyad/Desktop/Workspace/Java/newspringproject/src/main/java/com/spring/demo/context/InitializerJavaServlet.java
+/home/priyad/Desktop/Workspace/Java/newspringproject/src/main/java/com/spring/demo/Main.java
+/home/priyad/Desktop/Workspace/Java/newspringproject/src/main/java/com/spring/demo/empapi/EmployeeResource.java

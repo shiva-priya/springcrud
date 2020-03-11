@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d3da8f0-46c3-45f1-a0d2-eed5a557f14a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YsjMrLf2syCEKVt8OhNF7G3iPr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.demo.Main" />
+      <module name="newspringproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="ajpPort" value="8009" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="contextPath" value="/newspringproject" />
+      <option name="customContext" value="" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main" />
+      <option name="envOptions" />
+      <option name="moduleName" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 8.5.50" />
+          <option name="number" value="0" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-8.5.50" />
+          <option name="version" value="8.5.50.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean install" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d3da8f0-46c3-45f1-a0d2-eed5a557f14a" name="Default Changelist" comment="" />
+      <created>1583738150432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583738150432</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583740473053">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1583740473053" />
+    <state x="406" y="100" width="544" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1583777585012">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="406" y="100" width="544" height="592" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1583777585012" />
+    <state x="466" y="139" width="424" height="513" key="FileChooserDialogImpl" timestamp="1583740463259">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="139" width="424" height="513" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1583740463259" />
+    <state width="1320" height="139" key="GridCell.Tab.0.bottom" timestamp="1583919227358">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="139" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1583919227358" />
+    <state width="1320" height="139" key="GridCell.Tab.0.center" timestamp="1583919227356">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="139" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1583919227356" />
+    <state width="1320" height="139" key="GridCell.Tab.0.left" timestamp="1583919227355">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="139" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1583919227355" />
+    <state width="1320" height="139" key="GridCell.Tab.0.right" timestamp="1583919227357">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="139" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1583919227357" />
+    <state x="216" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1583738329723">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="216" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/0.27.1366.741@0.27.1366.741" timestamp="1583738329723" />
+    <state x="0" y="42" width="1356" height="708" key="new project wizard" timestamp="1583764377839">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="42" width="1356" height="708" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1583764377839" />
+    <state x="347" y="175" key="run.anything.popup" timestamp="1583907566920">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="175" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1583907566920" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583850131741">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1583850131741" />
+  </component>
+</project>
